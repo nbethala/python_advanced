@@ -1,1 +1,1 @@
-# This folder contain advanced python related to AI .
+# This folder contain advanced python related to AI Engineering.
